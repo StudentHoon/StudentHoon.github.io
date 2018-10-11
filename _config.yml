@@ -38,7 +38,10 @@ email: jh92aa@gmail.com
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/" # the subpath of your site, e.g. /blog
+
+# ROOT 경로를 잡아준다
+baseurl: "/" # the subpath of your site, e.g. /blog 
+# URI 정보 서정 
 url: "https://StudentHoon.github.io" # the base hostname & protocol for your site
 
 # Social settings
